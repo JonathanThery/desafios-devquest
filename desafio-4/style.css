@@ -1,0 +1,24 @@
+.tabela {
+  color: white;
+  font-size: 20px;
+}
+.titulo-tabela {
+  color: black;
+}
+.cabeçalho-moda th, .cabeçalho-casa th {
+  font-weight: 700;
+  padding: 8px;
+}
+.cabeçalho-moda {
+  background-color: #BB86FC;
+}
+
+.cabeçalho-casa {
+  background-color: #00C4B4;
+}
+
+.valores-tabela td {
+  background-color: #424250;
+  padding: 8px;
+}
+
